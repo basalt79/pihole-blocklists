@@ -2,4 +2,7 @@ getpocket.com
 img-getpocket.cdn.mozilla.net
 tpop-api.twitter.com
 whereby.com
-
+(\.|^)mtgglobals\.com$
+(\.|^)smartadserver\.com$
+(\.|^)treatwell\.net$
+(\.|^)iads\.unity3d\.com$
